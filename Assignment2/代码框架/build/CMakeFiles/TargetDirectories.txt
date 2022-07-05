@@ -1,0 +1,3 @@
+/home/rosmelodic/桌面/Assignment2/代码框架/build/CMakeFiles/rebuild_cache.dir
+/home/rosmelodic/桌面/Assignment2/代码框架/build/CMakeFiles/Rasterizer.dir
+/home/rosmelodic/桌面/Assignment2/代码框架/build/CMakeFiles/edit_cache.dir
