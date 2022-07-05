@@ -1,0 +1,3 @@
+/home/rosmelodic/桌面/Assignment3/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
+/home/rosmelodic/桌面/Assignment3/Assignment3/Code/build/CMakeFiles/Rasterizer.dir
+/home/rosmelodic/桌面/Assignment3/Assignment3/Code/build/CMakeFiles/edit_cache.dir
