@@ -1,0 +1,2 @@
+# GAMES101-Assignments
+2022年暑假期间学完了GAMES101-现代计算机图形学入门的所有课程，现将所有的Assignments整理出来并共享。
