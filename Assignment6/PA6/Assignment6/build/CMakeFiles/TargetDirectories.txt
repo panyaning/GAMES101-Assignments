@@ -1,0 +1,3 @@
+/home/rosmelodic/桌面/games101_Assignments/Assignment6/PA6/Assignment6/build/CMakeFiles/rebuild_cache.dir
+/home/rosmelodic/桌面/games101_Assignments/Assignment6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir
+/home/rosmelodic/桌面/games101_Assignments/Assignment6/PA6/Assignment6/build/CMakeFiles/edit_cache.dir
